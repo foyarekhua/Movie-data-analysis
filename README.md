@@ -1,7 +1,7 @@
 # Movie-data-analysis
 ## Goal
 Exploratory data analysis (EDA)
-## Summary 
+## Summary (report is called movie_data_analysis.pdf)
 1. Take the data from excel and use python to read it
 2. Understand the data (read the columns using df.head(), and understand their data types using df.dtypes)
 3. Check if there is data missing and clean it. If there is any missing data use df.dropna()
